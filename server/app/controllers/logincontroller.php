@@ -19,4 +19,16 @@ class LoginController extends Controller
     {
 
     }
+
+    // signup a new user
+    public function signup($username, $password)
+    {
+
+    }
+
+    // logout current logged in user
+    public function logout()
+    {
+        
+    }
 }
